@@ -52,7 +52,7 @@ h1{
   
 .contactbox{
   position: relative;
-  bottom: 620px;
+  bottom: 590px;
   left: 1240px;
 }
 .title{
@@ -81,8 +81,7 @@ font-size: larger;
 
 .img{
   position: relative;
-  left: 40px
-  width: 200px;
+  left: 0px
 }
 
 .steps{
@@ -108,11 +107,11 @@ font-size: larger;
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
   padding: 20px;
-  max-width: 500px;
+  max-width: 700px;
   font-size: large;
 }
 .middle{
   position: relative;
-  bottom: 307px;
-  left: 650px;
+  bottom: 280px;
+  left: 380px;
 }
