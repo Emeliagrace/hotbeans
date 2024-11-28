@@ -1,0 +1,62 @@
+
+
+
+body{
+    background-color:rgb(170, 170, 170);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:10px;
+    color:rgb(0, 0, 0); /*adding font color*/
+}
+
+h1{
+    
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 45px;
+    background-color: dimgray;
+
+}
+
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+  }
+
+  .topnav a {
+   
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 45px;
+    background-color: dimgray;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: dimgrey;
+  }
+
+
+.topnav input[type=text] {
+    float: left;
+    padding: 10px;
+    border: none;
+    margin-top: 9px;
+    margin-right: 16px;
+    font-size: 17px;
+    position: relative;
+    bottom: 30px;
+  }
+
+
+
