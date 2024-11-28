@@ -70,4 +70,17 @@ h1{
     top: 10px;
   }
 
+  .who{
+    background-color: rgb(177, 177, 177);
+    border: 2px solid rgb(255, 254, 254);
+    padding: 10px;
+    max-width: 600px;
+  }
+    
+  .who{
+    position: relative;
+    bottom: 590px;
+    left: 1240px;
+  }
+
   
