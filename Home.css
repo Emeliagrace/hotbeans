@@ -66,7 +66,7 @@ h1{
     position: relative;
     left: 320px;
     height: 300px;
-    width: 400px;
+    width: 500px;
     bottom: 43px;
   }
 
@@ -84,6 +84,7 @@ h1{
  }
   
 
+ 
  .rights{
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
@@ -93,6 +94,6 @@ h1{
 }
 .rights{
   position: relative;
-  top: 750px;
+  top: 650px;
   left: 320px;
 }
