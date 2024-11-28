@@ -64,10 +64,10 @@ h1{
 
   .img{
     position: relative;
-    left: 170px;
-    height: 100px;
-    width: 100px;
-    bottom: 20px;
+    left: 320px;
+    height: 300px;
+    width: 400px;
+    bottom: 43px;
   }
 
   .who{
@@ -79,7 +79,20 @@ h1{
     
  .who{
   position: relative;
-  top: 500px;
+  top: 390px;
   left: 320px;
  }
   
+
+ .rights{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1500px;
+  text-align: center;
+}
+.rights{
+  position: relative;
+  top: 750px;
+  left: 320px;
+}
