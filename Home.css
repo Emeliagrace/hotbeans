@@ -62,7 +62,13 @@ h1{
     color: rgb(255, 105, 105);
   }
 
-  
+  .img{
+    position: relative;
+    left: 320px;
+    height: 300px;
+    width: 500px;
+    bottom: 43px;
+  }
 
   .who{
     background-color: rgb(177, 177, 177);
