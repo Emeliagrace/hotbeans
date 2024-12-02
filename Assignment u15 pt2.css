@@ -81,7 +81,7 @@ font-size: larger;
 
 .img{
   position: relative;
-  right: 45px;
+  right: 55px;
 }
 
 .steps{
@@ -113,5 +113,5 @@ font-size: larger;
 .middle{
   position: relative;
   bottom: 280px;
-  left: 470px;
+  left: 450px;
 }
