@@ -64,7 +64,10 @@ h1{
 
   .img{
     position: relative;
-    left: 400px;
+    left: 320px;
+    height: 320px;
+    width: 550px;
+    bottom: 270px;
   }
 
   .who{
