@@ -5,7 +5,7 @@ body{
     background-color:rgb(170, 170, 170);
     font-family:Georgia, 'Times New Roman', Times, serif;
     padding:10px;
-    color:rgb(0, 0, 0); /*adding font color*/
+    color:rgb(255, 255, 255); /*adding font color*/
 }
 
 h1{
@@ -65,24 +65,74 @@ h1{
   .img{
     position: relative;
     left: 320px;
-    height: 300px;
-    width: 500px;
-    bottom: 43px;
+    height: 320px;
+    width: 550px;
+    bottom: 270px;
   }
 
   .who{
     background-color: rgb(177, 177, 177);
     border: 2px solid rgb(255, 254, 254);
     padding: 10px;
-    max-width: 600px;
+    max-width: 900px;
+    font-size: larger;
   }
     
  .who{
   position: relative;
-  top: 390px;
-  left: 320px;
+  top: 15px;
+  left: 920px;
  }
   
+ .steps{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1505px;
+  font-size: larger;
+  font-weight: 800;
+  text-align: center;
+}
+
+.steps{
+  position: relative;
+  top: 200px;
+  left: 315px;
+}
+
+ 
+
+.hire{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 830px;
+  font-size: larger;
+}
+
+.hire{
+  position: relative;
+  bottom: 270px;
+  left: 320px;
+}
+
+ .contactbox{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 600px;
+}
+  
+.contactbox{
+  position: relative;
+  bottom: 590px;
+  left: 1220px;
+}
+
+ h2{
+  font-weight: 900;
+}
+
 
  
  .rights{
@@ -94,6 +144,6 @@ h1{
 }
 .rights{
   position: relative;
-  top: 650px;
+  bottom: 400px;
   left: 320px;
 }
