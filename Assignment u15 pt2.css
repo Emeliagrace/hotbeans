@@ -3,7 +3,7 @@ body{
     background-color:rgb(170, 170, 170);
     font-family:Georgia, 'Times New Roman', Times, serif;
     padding:10px;
-    color:rgb(0, 0, 0); /*adding font color*/
+    color:rgb(255, 255, 255); /*adding font color*/
 }
 
 h1{
@@ -76,7 +76,7 @@ font-size: larger;
 }
 .rights{
   position: relative;
-  bottom: 550px;
+  bottom: 500px;
 }
 
 .img{
@@ -96,7 +96,7 @@ font-size: larger;
 
 .steps{
   position: relative;
-  bottom: 560px;
+  bottom: 520px;
 }
 
 .contacttitle{
