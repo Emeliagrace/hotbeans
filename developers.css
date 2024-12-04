@@ -40,3 +40,28 @@ h1{
   .topnav a:hover {
     color: rgb(255, 105, 105);
   }
+
+
+  .topbox{
+    background-color: rgb(177, 177, 177);
+    border: 2px solid rgb(255, 254, 254);
+    padding: 10px;
+    max-width: 1875px;
+    text-align: center;
+  }
+
+  .boxtwo{
+    background-color: rgb(177, 177, 177);
+    border: 2px solid rgb(255, 254, 254);
+    padding: 10px;
+    max-width: 1875px;
+    text-align: center;
+  }
+
+  .boxthree{
+    background-color: rgb(177, 177, 177);
+    border: 2px solid rgb(255, 254, 254);
+    padding: 10px;
+    max-width: 1875px;
+    text-align: center;
+  }

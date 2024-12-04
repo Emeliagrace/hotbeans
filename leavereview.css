@@ -42,45 +42,21 @@ h1{
     color: rgb(255, 105, 105);
   }
 
-  .audio{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 575px;
-  text-align: center;
-  }
-  .audio{
-    position: relative;
-    top: 30px;
-  }
 
   .write{
     background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
   padding: 10px;
   max-width: 575px;
-  text-align: center;
+  text-align: left;
   }
 
   .write{
     position: relative;
-    left: 630px;
-    bottom: 140px;
+    left: 0px;
+    top: 40px;
   }
 
-  .video{
-    background-color: rgb(177, 177, 177);
-    border: 2px solid rgb(255, 254, 254);
-    padding: 10px;
-    max-width: 575px;
-    text-align: center;
-  }
-
-  .video{
-    position: relative;
-    left: 1260px;
-    bottom: 312px;
-  }
 
   .ps{
     background-color: rgb(177, 177, 177);
@@ -101,3 +77,4 @@ h1{
     position: relative;
     top: 110px;
   }
+  

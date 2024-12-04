@@ -14,6 +14,8 @@ h1{
 }
 
 .topnav a {
+    position: sticky;
+    top: 0;
     float: left;
     display: block;
     color: rgb(255, 255, 255);
