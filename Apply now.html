@@ -11,7 +11,6 @@
   <div class="gradient-background">
     <h1><u>Apply Now!</u>
    <div class="topnav">
-   <a class="active" href="Apply now.html">Apply now!</a>
     <a href="Account.html">Account</a>
    <a href="index.html">Hot Beans</a>
    <a href="Home.html">Home</a>
@@ -23,7 +22,8 @@
 
 
 
-
+<div class="formtwo">
+  <h2><p><b><u>Apply here just fill this form out!</u></b></p></h2>
   <form>
     <label for="fname">First name:</label><br>
     <input type="text" id="fname" name="fname"><br>
@@ -31,8 +31,12 @@
     <input type="text" id="lname" name="lname">
   </form>
 
-  <p>Have you ever worked in websign development before?:</p>
+  <form>
+    <label for="datebirth">Date of birth:</label><br>
+    <input type="text" id="datebirth" name="datebirth"><br>
+  </form>
 
+<p>Have you ever worked in websign development before?:</p>
 <form>
   <input type="radio" id="Yes" name="webdev" value="Yes">
   <label for="Yes">Yes</label><br>
@@ -41,19 +45,50 @@
  </form>
 <br>
 
- <form>
-  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-  <label for="vehicle1"> I have a bike</label><br>
-  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-  <label for="vehicle2"> I have a car</label><br>
-  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-  <label for="vehicle3"> I have a boat</label>
+<p> If so where did you work before?/if not then just fill this box with No.</p>
+<form>
+  <textarea name="textarea"></textarea>
+</form>
+
+<p>Why do you want to work at hot beans?</p>
+<form>
+  <textarea name="textarea"></textarea>
 </form>
 
 
+<p>Could You provide us with a Email for us to contact you?</p>
+<form>
+  <textarea name="textarea"></textarea>
+</form>
+
+<p>Could You provide us with a Phone Number for us to contact you?</p>
+<form>
+  <textarea name="textarea"></textarea>
+</form>
+
+
+<p id="demo">Submit.</p>
+<button type="button" onclick="myFunction()">Submit</button>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Form submitted.";
+}
+</script>
+</div>
+
 
 <div class="salary">
-  Salary
+  <h5><b><u>Amenities</u></b></h5>
+  <p>
+  Here at Hot Beans its not about what you offer its whats we offer to you too.<br> <br>
+
+  Salary- Our salary is based on the amount of projects a employee completes in a certain time 
+  span if a employee completes projects before it is due and does a good job they may recieve a Bonus on top of their Pay.<br> <br>
+  Software- Any Employee with get access to any software they need to complete their projects for free.</p> <br><br>
+  <h3>Alternative Options!</h3>
+  <p>If we dont accept you or decide you dont have the qualifications and skills we are looking for do not worry here are some Web Design/development courses you can take.</p><br>
+
 </div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
