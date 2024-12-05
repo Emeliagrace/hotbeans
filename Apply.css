@@ -58,7 +58,7 @@ h1{
 
   .salary{
     position: relative;
-    bottom: 1585px;
+    bottom: 1785px;
   }
 
   .formtwo{
@@ -94,7 +94,7 @@ h3{
 .employee{
   position: relative;
   left: 1300px;
-  bottom: 1065px; 
+  bottom: 1265px; 
 }
 
 h4{
@@ -125,5 +125,5 @@ h4{
 .jobspecs{
   position: relative;
   bottom: 200px;
-  left: 1050px;
+  left: 1250px;
 }
