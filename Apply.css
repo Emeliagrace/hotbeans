@@ -58,7 +58,7 @@ h1{
 
   .salary{
     position: relative;
-    bottom: 765px;
+    bottom: 985px;
   }
 
   .formtwo{
@@ -70,7 +70,7 @@ h1{
   }
 .formtwo{
   position: relative;
-  left: 650px;
+  left: 600px;
 }
  
 h5{
@@ -80,8 +80,37 @@ h5{
 
 h3{
   font-size: larger;
+  font-weight: 800;
+}
+
+.employee{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 550px;
+  text-align: center;
+}
+
+.employee{
+  position: relative;
+  left: 1300px;
+  bottom: 765px; 
+}
+
+h4{
+  font-size: x-large;
+  font-weight: 800;
 }
 
 
-
-
+.rights{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1900px;
+  text-align: center;
+}
+.rights{
+  position: relative;
+  bottom: 900px;
+}
