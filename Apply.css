@@ -1,129 +1,129 @@
 
 
 body{
-    background-color:rgb(170, 170, 170);
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    padding:10px;
-    color:rgb(255, 255, 255); /*adding font color*/
+  background-color:rgb(170, 170, 170);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding:10px;
+  color:rgb(255, 255, 255); /*adding font color*/
 }
 
 h1{
-    color:rgb(255, 255, 255);
-    text-align:  center;
-    text-shadow: 2px 2px rgb(53, 53, 53);
-    background-color: dimgray;
+  color:rgb(255, 255, 255);
+  text-align:  center;
+  text-shadow: 2px 2px rgb(53, 53, 53);
+  background-color: dimgray;
 }
 
 .topnav a {
-  position: sticky;
-    float: left;
-    display: block;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    background-color: dimgray;
-  }
-  .topnav {
-    overflow: hidden;
-    background-color: dimgrey;
-  }
+position: sticky;
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: dimgray;
+}
+.topnav {
+  overflow: hidden;
+  background-color: dimgrey;
+}
 
 
 .topnav input[type=text] {
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
-  }
-
-  .topnav a:hover {
-    color: rgb(255, 105, 105);
-  }
-
-  .h2{
-    font-size: large;
-  }
-
-  .salary{
-    background-color: rgb(177, 177, 177);
-    border: 2px solid rgb(255, 254, 254);
-    padding: 10px;
-    max-width: 505px;
-    text-align: left;
-  }
-
-  .salary{
-    position: relative;
-    bottom: 1985px;
-  }
-
-  .formtwo{
-    background-color: rgb(177, 177, 177);
-    border: 2px solid rgb(255, 254, 254);
-    padding: 10px;
-    max-width: 605px;
-    text-align: left;
-  }
-.formtwo{
-  position: relative;
-  left: 600px;
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
 }
- 
+
+.topnav a:hover {
+  color: rgb(255, 105, 105);
+}
+
+.h2{
+  font-size: large;
+}
+
+.salary{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 505px;
+  text-align: left;
+}
+
+.salary{
+  position: relative;
+  bottom: 1499px;
+}
+
+.formtwo{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 605px;
+  text-align: left;
+}
+.formtwo{
+position: relative;
+left: 600px;
+}
+
 h5{
-  font-size: x-large;
-  text-align: center;
+font-size: x-large;
+text-align: center;
 }
 
 h3{
-  font-size: larger;
-  font-weight: 800;
+font-size: larger;
+font-weight: 800;
 }
 
 .employee{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 550px;
-  text-align: center;
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 550px;
+text-align: center;
 }
 
 .employee{
-  position: relative;
-  left: 1300px;
-  bottom: 700px;
+position: relative;
+left: 1300px;
+bottom: 1300px; 
 }
 
 h4{
-  font-size: x-large;
-  font-weight: 800;
+font-size: x-large;
+font-weight: 800;
 }
 
 
 .rights{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 1900px;
-  text-align: center;
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 1900px;
+text-align: center;
 }
 .rights{
-  position: relative;
-  bottom: 900px;
+position: relative;
+bottom: 1400px;
 }
 
 .jobspecs{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 20px;
-  max-width: 700px;
-  font-size: large;
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 530px;
+font-size: large;
 }
 .jobspecs{
-  position: relative;
-  bottom: 200px;
-  left: 1950px;
+position: relative;
+bottom: 530px;
+left: 1300px;
 }
