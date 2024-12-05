@@ -114,3 +114,16 @@ h4{
   position: relative;
   bottom: 900px;
 }
+
+.jobspecs{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 20px;
+  max-width: 700px;
+  font-size: large;
+}
+.jobspecs{
+  position: relative;
+  bottom: 280px;
+  left: 450px;
+}
