@@ -1,68 +1,67 @@
-
 body{
-    background-color:rgb(170, 170, 170);
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    padding:10px;
-    color:rgb(255, 255, 255); /*adding font color*/
+  background-color:rgb(170, 170, 170);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding:10px;
+  color:rgb(255, 255, 255); /*adding font color*/
 }
 
 h1{
-    color:rgb(255, 255, 255);
-    text-align:  center;
-    text-shadow: 2px 2px rgb(53, 53, 53);
-    background-color: dimgray;
+  color:rgb(255, 255, 255);
+  text-align:  center;
+  text-shadow: 2px 2px rgb(53, 53, 53);
+  background-color: dimgray;
 }
 
 .topnav a {
-    position: sticky;
-    top: 0;
-    float: left;
-    display: block;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    background-color: dimgray;
-  }
-  .topnav {
-    overflow: hidden;
-    background-color: dimgrey;
-  }
+  position: sticky;
+  top: 0;
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: dimgray;
+}
+.topnav {
+  overflow: hidden;
+  background-color: dimgrey;
+}
 
 
 .topnav input[type=text] {
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
-  }
-
-  .topnav a:hover {
-    color: rgb(255, 105, 105);
-  }
-  
- 
-.contactbox{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 600px;
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
 }
-  
+
+.topnav a:hover {
+  color: rgb(255, 105, 105);
+}
+
+
 .contactbox{
-  position: relative;
-  bottom: 590px;
-  left: 1240px;
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 600px;
+}
+
+.contactbox{
+position: relative;
+bottom: 590px;
+left: 1240px;
 }
 .title{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 1900px;
-  
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 1900px;
+
 }
 
 h5{
@@ -70,51 +69,52 @@ font-size: larger;
 }
 
 .rights{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 1900px;
-  text-align: center;
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 1900px;
+text-align: center;
 }
 .rights{
-  position: relative;
-  bottom: 500px;
+position: relative;
+bottom: 500px;
 }
 
 .img{
-  position: relative;
-  right: 55px;
+position: relative;
+right: 55px;
 }
 
 .steps{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 1900px;
-  font-size: larger;
-  font-weight: 800;
-  text-align: center;
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 1900px;
+font-size: larger;
+font-weight: 800;
+text-align: center;
 }
 
 .steps{
-  position: relative;
-  bottom: 520px;
+position: relative;
+bottom: 520px;
 }
 
 .contacttitle{
-  font-weight: 800;
+font-weight: 800;
 }
 
 .middle{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 20px;
-  max-width: 700px;
-  font-size: large;
+background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 20px;
+max-width: 700px;
+font-size: large;
 }
 .middle{
-  position: relative;
-  bottom: 280px;
-  left: 450px;
+position: relative;
+bottom: 280px;
+left: 450px;
 }
+
 

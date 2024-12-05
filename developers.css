@@ -1,67 +1,122 @@
 body{
-    background-color:rgb(170, 170, 170);
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    padding:10px;
-    color:rgb(255, 255, 255); /*adding font color*/
+  background-color:rgb(170, 170, 170);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding:10px;
+  color:rgb(255, 255, 255); /*adding font color*/
 }
 
 h1{
-    color:rgb(255, 255, 255);
-    text-align:  center;
-    text-shadow: 2px 2px rgb(53, 53, 53);
-    background-color: dimgray;
+  color:rgb(255, 255, 255);
+  text-align:  center;
+  text-shadow: 2px 2px rgb(53, 53, 53);
+  background-color: dimgray;
 }
 
 .topnav a {
-    float: left;
-    display: block;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    background-color: dimgray;
-  }
-  .topnav {
-    overflow: hidden;
-    background-color: dimgrey;
-  }
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: dimgray;
+}
+.topnav {
+  overflow: hidden;
+  background-color: dimgrey;
+}
 
 
 .topnav input[type=text] {
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
-  }
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
 
-  .topnav a:hover {
-    color: rgb(255, 105, 105);
-  }
+.topnav a:hover {
+  color: rgb(255, 105, 105);
+}
 
 
-  .topbox{
-    background-color: rgb(177, 177, 177);
-    border: 2px solid rgb(255, 254, 254);
-    padding: 10px;
-    max-width: 1875px;
-    text-align: center;
-  }
+.topbox{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 500px;
+  text-align: center;
+}
 
-  .boxtwo{
-    background-color: rgb(177, 177, 177);
-    border: 2px solid rgb(255, 254, 254);
-    padding: 10px;
-    max-width: 1875px;
-    text-align: center;
-  }
+.topbox{
+  position: relative;
 
-  .boxthree{
-    background-color: rgb(177, 177, 177);
-    border: 2px solid rgb(255, 254, 254);
-    padding: 10px;
-    max-width: 1875px;
-    text-align: center;
-  }
+}
+
+h2{
+  text-align: center;
+  font-weight: 800;
+}
+.boxtwo{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 500px;
+  text-align: center;
+}
+.boxtwo{
+  position: relative;
+  bottom: 430px;
+  left: 580px;
+
+}
+
+.boxthree{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 500px;
+  text-align: center;
+}
+.boxthree{
+  position: relative;
+  bottom: 805px;
+  left: 1158px;
+}
+
+.img{
+position: relative;
+bottom: 750px;
+left: 300px;
+height: 600px;
+}
+
+.steps{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1900px;
+  font-size: larger;
+  font-weight: 800;
+  text-align: center;
+}
+
+.steps{
+  position: relative;
+ bottom: 700px;
+}
+.rights{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1900px;
+  text-align: center;
+}
+.rights{
+  position: relative;
+  bottom: 690px;
+}
+
+
